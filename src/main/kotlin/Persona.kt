@@ -15,6 +15,12 @@
  * Tambien tenemos la delegacion de interfaces, lo que significa que a un atributo del constructor
  * de la clase podemos decirle que es del tipo 'interfaz1' por ejemplo y por tanto ese
  * atributo podra acceder a los metodos de esa interfaz.
+ *
+ * Todas los métodos definidos por las interfaces se pueden sobrescribir sin tener que ser marcados
+ * con open
+ *
+ * Las interfaces pueden contener propiedades abstractas y regulares pero sin campos
+ * de respaldo
  */
 abstract class Persona(
     private val nombre: String,
