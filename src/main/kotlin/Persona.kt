@@ -6,8 +6,8 @@
  * debido a que solamente especificamos el comportamiento en las clases hijas. Ademas
  * de que las propiedades y metodos abstractos seran exigidos en las subclases con el override.
  *
- * Por otro lado los atributos del constructor primario los ponemos en privado ya que al heredarlos
- * las clases hijas no es necesario que sean abiertos.
+ * Por otro lado los atributos del constructor primario los ponemos en protected ya que al heredarlos
+ * las clases hijas no es recomendable que sean abiertos.
  *
  * La ventaja de usar la interfaz es que una clase puede heredar a la vez los metodos y atributos
  * de varias interfaces y de esa forma hereda el comportamiento de cada una.
@@ -23,12 +23,14 @@
  * de respaldo
  */
 abstract class Persona(
-    private val nombre: String,
-    private val apellido: String,
-    private val edad: Int
+    protected var nombre: String,
+    protected val apellido: String,
+    protected val edad: Int
 ) {
 
     abstract fun quienSoy(): String
+
+    abstract fun cambiarNombre(nombreNuevo: String): String
 
     override fun toString(): String {
         return "$nombre $apellido de $edad anos"
@@ -47,6 +49,13 @@ class Estudiante(
         return "Soy un estudiante"
     }
 
+    override fun cambiarNombre(nombreNuevo: String): String {
+        if(edad > 18) {
+            this.nombre = nombreNuevo
+        }
+        return "El nuevo nombre del estudiante es: $nombre"
+    }
+
 }
 
 
@@ -59,6 +68,13 @@ class Trabajador(
 
     override fun quienSoy(): String {
         return "Soy un trabajador"
+    }
+
+    override fun cambiarNombre(nombreNuevo: String): String {
+        if(edad > 18) {
+            this.nombre = nombreNuevo
+        }
+        return "El nuevo nombre del trabajador es: $nombre"
     }
 
 }
@@ -74,6 +90,10 @@ fun main() {
     println(trabajador1.quienSoy())
 
     println(estudiante1.quienSoy())
+
+    println(trabajador1.cambiarNombre("Alberto"))
+
+    println(estudiante1.cambiarNombre("Alvaro"))
 
     println(trabajador1)
     println(estudiante1)
