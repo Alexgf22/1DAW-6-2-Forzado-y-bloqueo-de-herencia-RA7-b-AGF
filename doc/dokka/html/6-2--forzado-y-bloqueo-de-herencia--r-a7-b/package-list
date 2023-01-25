@@ -1,0 +1,54 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+$dokka.location:////PointingToDeclaration/6-2--forzado-y-bloqueo-de-herencia--r-a7-b/[root]/index.html
+$dokka.location://main/#/PointingToDeclaration/6-2--forzado-y-bloqueo-de-herencia--r-a7-b/[root]/main.html
+$dokka.location:/ArmaDeFuego///PointingToDeclaration/6-2--forzado-y-bloqueo-de-herencia--r-a7-b/[root]/-arma-de-fuego/index.html
+$dokka.location:/ArmaDeFuego/ArmaDeFuego/#kotlin.String#kotlin.Int#kotlin.Int#kotlin.String#kotlin.Int#kotlin.String/PointingToDeclaration/6-2--forzado-y-bloqueo-de-herencia--r-a7-b/[root]/-arma-de-fuego/-arma-de-fuego.html
+$dokka.location:/ArmaDeFuego/danio/#/PointingToDeclaration/6-2--forzado-y-bloqueo-de-herencia--r-a7-b/[root]/-arma-de-fuego/danio.html
+$dokka.location:/ArmaDeFuego/dispara/#/PointingToDeclaration/6-2--forzado-y-bloqueo-de-herencia--r-a7-b/[root]/-arma-de-fuego/dispara.html
+$dokka.location:/ArmaDeFuego/disparos/#/PointingToDeclaration/6-2--forzado-y-bloqueo-de-herencia--r-a7-b/[root]/-arma-de-fuego/disparos.html
+$dokka.location:/ArmaDeFuego/municion/#/PointingToDeclaration/6-2--forzado-y-bloqueo-de-herencia--r-a7-b/[root]/-arma-de-fuego/municion.html
+$dokka.location:/ArmaDeFuego/municionARestar/#/PointingToDeclaration/6-2--forzado-y-bloqueo-de-herencia--r-a7-b/[root]/-arma-de-fuego/municion-a-restar.html
+$dokka.location:/ArmaDeFuego/nombre/#/PointingToDeclaration/6-2--forzado-y-bloqueo-de-herencia--r-a7-b/[root]/-arma-de-fuego/nombre.html
+$dokka.location:/ArmaDeFuego/radio/#/PointingToDeclaration/6-2--forzado-y-bloqueo-de-herencia--r-a7-b/[root]/-arma-de-fuego/radio.html
+$dokka.location:/ArmaDeFuego/recarga/#/PointingToDeclaration/6-2--forzado-y-bloqueo-de-herencia--r-a7-b/[root]/-arma-de-fuego/recarga.html
+$dokka.location:/ArmaDeFuego/tipoDeMunicion/#/PointingToDeclaration/6-2--forzado-y-bloqueo-de-herencia--r-a7-b/[root]/-arma-de-fuego/tipo-de-municion.html
+$dokka.location:/ArmaDeFuego/toString/#/PointingToDeclaration/6-2--forzado-y-bloqueo-de-herencia--r-a7-b/[root]/-arma-de-fuego/to-string.html
+$dokka.location:/Bazooka///PointingToDeclaration/6-2--forzado-y-bloqueo-de-herencia--r-a7-b/[root]/-bazooka/index.html
+$dokka.location:/Bazooka/Bazooka/#kotlin.String#kotlin.Int#kotlin.Int#kotlin.String#kotlin.Int#kotlin.String/PointingToDeclaration/6-2--forzado-y-bloqueo-de-herencia--r-a7-b/[root]/-bazooka/-bazooka.html
+$dokka.location:/Bazooka/dispara/#/PointingToDeclaration/6-2--forzado-y-bloqueo-de-herencia--r-a7-b/[root]/-bazooka/dispara.html
+$dokka.location:/Bazooka/recarga/#/PointingToDeclaration/6-2--forzado-y-bloqueo-de-herencia--r-a7-b/[root]/-bazooka/recarga.html
+$dokka.location:/Bocadillo///PointingToDeclaration/6-2--forzado-y-bloqueo-de-herencia--r-a7-b/[root]/-bocadillo/index.html
+$dokka.location:/Bocadillo/Bocadillo/#kotlin.Int/PointingToDeclaration/6-2--forzado-y-bloqueo-de-herencia--r-a7-b/[root]/-bocadillo/-bocadillo.html
+$dokka.location:/Bocadillo/dispara/#/PointingToDeclaration/6-2--forzado-y-bloqueo-de-herencia--r-a7-b/[root]/-bocadillo/dispara.html
+$dokka.location:/Bocadillo/disparosDelObjeto/#/PointingToDeclaration/6-2--forzado-y-bloqueo-de-herencia--r-a7-b/[root]/-bocadillo/disparos-del-objeto.html
+$dokka.location:/Bocadillo/municion/#/PointingToDeclaration/6-2--forzado-y-bloqueo-de-herencia--r-a7-b/[root]/-bocadillo/municion.html
+$dokka.location:/Bocadillo/recarga/#/PointingToDeclaration/6-2--forzado-y-bloqueo-de-herencia--r-a7-b/[root]/-bocadillo/recarga.html
+$dokka.location:/Bocadillo/toString/#/PointingToDeclaration/6-2--forzado-y-bloqueo-de-herencia--r-a7-b/[root]/-bocadillo/to-string.html
+$dokka.location:/Casa///PointingToDeclaration/6-2--forzado-y-bloqueo-de-herencia--r-a7-b/[root]/-casa/index.html
+$dokka.location:/Casa/Casa/#kotlin.Int/PointingToDeclaration/6-2--forzado-y-bloqueo-de-herencia--r-a7-b/[root]/-casa/-casa.html
+$dokka.location:/Casa/dispara/#/PointingToDeclaration/6-2--forzado-y-bloqueo-de-herencia--r-a7-b/[root]/-casa/dispara.html
+$dokka.location:/Casa/disparosDelObjeto/#/PointingToDeclaration/6-2--forzado-y-bloqueo-de-herencia--r-a7-b/[root]/-casa/disparos-del-objeto.html
+$dokka.location:/Casa/municion/#/PointingToDeclaration/6-2--forzado-y-bloqueo-de-herencia--r-a7-b/[root]/-casa/municion.html
+$dokka.location:/Casa/recarga/#/PointingToDeclaration/6-2--forzado-y-bloqueo-de-herencia--r-a7-b/[root]/-casa/recarga.html
+$dokka.location:/Casa/toString/#/PointingToDeclaration/6-2--forzado-y-bloqueo-de-herencia--r-a7-b/[root]/-casa/to-string.html
+$dokka.location:/Coche///PointingToDeclaration/6-2--forzado-y-bloqueo-de-herencia--r-a7-b/[root]/-coche/index.html
+$dokka.location:/Coche/Coche/#kotlin.Int/PointingToDeclaration/6-2--forzado-y-bloqueo-de-herencia--r-a7-b/[root]/-coche/-coche.html
+$dokka.location:/Coche/dispara/#/PointingToDeclaration/6-2--forzado-y-bloqueo-de-herencia--r-a7-b/[root]/-coche/dispara.html
+$dokka.location:/Coche/disparosDelObjeto/#/PointingToDeclaration/6-2--forzado-y-bloqueo-de-herencia--r-a7-b/[root]/-coche/disparos-del-objeto.html
+$dokka.location:/Coche/municion/#/PointingToDeclaration/6-2--forzado-y-bloqueo-de-herencia--r-a7-b/[root]/-coche/municion.html
+$dokka.location:/Coche/recarga/#/PointingToDeclaration/6-2--forzado-y-bloqueo-de-herencia--r-a7-b/[root]/-coche/recarga.html
+$dokka.location:/Coche/toString/#/PointingToDeclaration/6-2--forzado-y-bloqueo-de-herencia--r-a7-b/[root]/-coche/to-string.html
+$dokka.location:/ComportamientoArmas///PointingToDeclaration/6-2--forzado-y-bloqueo-de-herencia--r-a7-b/[root]/-comportamiento-armas/index.html
+$dokka.location:/ComportamientoArmas/dispara/#/PointingToDeclaration/6-2--forzado-y-bloqueo-de-herencia--r-a7-b/[root]/-comportamiento-armas/dispara.html
+$dokka.location:/ComportamientoArmas/recarga/#/PointingToDeclaration/6-2--forzado-y-bloqueo-de-herencia--r-a7-b/[root]/-comportamiento-armas/recarga.html
+$dokka.location:/Pistola///PointingToDeclaration/6-2--forzado-y-bloqueo-de-herencia--r-a7-b/[root]/-pistola/index.html
+$dokka.location:/Pistola/Pistola/#kotlin.String#kotlin.Int#kotlin.Int#kotlin.String#kotlin.Int#kotlin.String/PointingToDeclaration/6-2--forzado-y-bloqueo-de-herencia--r-a7-b/[root]/-pistola/-pistola.html
+$dokka.location:/Pistola/dispara/#/PointingToDeclaration/6-2--forzado-y-bloqueo-de-herencia--r-a7-b/[root]/-pistola/dispara.html
+$dokka.location:/Pistola/recarga/#/PointingToDeclaration/6-2--forzado-y-bloqueo-de-herencia--r-a7-b/[root]/-pistola/recarga.html
+$dokka.location:/Rifle///PointingToDeclaration/6-2--forzado-y-bloqueo-de-herencia--r-a7-b/[root]/-rifle/index.html
+$dokka.location:/Rifle/Rifle/#kotlin.String#kotlin.Int#kotlin.Int#kotlin.String#kotlin.Int#kotlin.String/PointingToDeclaration/6-2--forzado-y-bloqueo-de-herencia--r-a7-b/[root]/-rifle/-rifle.html
+$dokka.location:/Rifle/dispara/#/PointingToDeclaration/6-2--forzado-y-bloqueo-de-herencia--r-a7-b/[root]/-rifle/dispara.html
+$dokka.location:/Rifle/recarga/#/PointingToDeclaration/6-2--forzado-y-bloqueo-de-herencia--r-a7-b/[root]/-rifle/recarga.html
+
+
